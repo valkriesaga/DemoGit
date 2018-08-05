@@ -90,3 +90,8 @@ resources/i18n/
 
 # Logs created by building from the command line.
 velocity.log
+nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0.zip
+nativebindings/iOS/11.0/Kony_SDKCommons-iOS-11.0.zip
+resources/customlibs/sdkplugin.properties
+nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip
+nativebindings/Android/4.0/Kony_SDKCommons-Android-4.0.zip
