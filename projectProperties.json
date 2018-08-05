@@ -30,9 +30,9 @@
     "winmobileguidkey": "",
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
-        "isEnableJSContainerAndroid": false,
+        "isEnableJSContainerAndroid": true,
         "isModified": true,
-        "isEnableJSContaineriOS": false,
-        "isEnableJSContainer": false
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
     }
 }
